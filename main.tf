@@ -1,6 +1,7 @@
 # Provider Block
 provider "azurerm" {
- features {}          
+ features {}
+ subscription_id = "ff04b2bb-72b6-452e-aa28-5ccbec7bc00b"
 }
 
 # Random String Resource
